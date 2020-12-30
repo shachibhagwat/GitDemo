@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-27T16:14:05 EST" name="Command line suite" finished-at="2020-12-27T16:14:05 EST" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2020-12-27T16:14:05 EST" name="Command line test" finished-at="2020-12-27T16:14:05 EST" duration-ms="53">
+      <class name="com.companyname.bank.consumerBanking.SeleniumTest">
+        <test-method signature="testDemo()[pri:0, instance:com.companyname.bank.consumerBanking.SeleniumTest@e056f20]" started-at="2020-12-27T16:14:05 EST" name="testDemo" finished-at="2020-12-27T16:14:05 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemo -->
+      </class> <!-- com.companyname.bank.consumerBanking.SeleniumTest -->
+      <class name="com.companyname.bank.consumerBanking.AppiumTest">
+        <test-method signature="testDemo()[pri:0, instance:com.companyname.bank.consumerBanking.AppiumTest@6e4784bc]" started-at="2020-12-27T16:14:05 EST" name="testDemo" finished-at="2020-12-27T16:14:05 EST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemo -->
+      </class> <!-- com.companyname.bank.consumerBanking.AppiumTest -->
+      <class name="com.companyname.bank.consumerBanking.RestAPITest">
+        <test-method signature="testDemo()[pri:0, instance:com.companyname.bank.consumerBanking.RestAPITest@34b7ac2f]" started-at="2020-12-27T16:14:05 EST" name="testDemo" finished-at="2020-12-27T16:14:05 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemo -->
+      </class> <!-- com.companyname.bank.consumerBanking.RestAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
