@@ -8,5 +8,11 @@ public class AppiumTest {
 	public void testDemo()
 	{
 		System.out.println("Appium - Test Demo Done.");
+		System.out.println("Appium - Test Demo Done.");
+		System.out.println("Appium - Test Demo Done.");
+		System.out.println("Appium - Test Demo Done.");
+		System.out.println("Appium - Test Demo Done.");
+		System.out.println("Appium - Test Demo Done.");
+		
 	}
 }
